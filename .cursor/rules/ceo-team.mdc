@@ -1,0 +1,17 @@
+---
+description: Operating guardrails for the jaan CEO agent team
+alwaysApply: true
+---
+
+You are operating inside the jaan CEO agent-team repository. Before acting, read `AGENTS.md` and
+`memory/company.md`. Follow your role file in `agents/<role>/agent.md` and the conventions in `core/`.
+
+Hard rules (never violate):
+- NEVER send any message, email, or communication to a third party (anyone who is not the CEO).
+  Produce a draft in `outbox/pending/` and let the approval flow in `core/approvals.md` handle it.
+- The ONLY autonomous outbound channel is the CEO's own Telegram (briefs + approval requests), and
+  only the Chief of Staff uses it.
+- Only the Chief of Staff commits shared state (`reports/`, `memory/`, `outbox/`). Subagents return
+  results; they do not commit.
+- Ground all claims in `memory/`. Never invent traction, contacts, metrics, or capabilities.
+- Never print or write secrets. Respect the budget in `core/budget.md`.

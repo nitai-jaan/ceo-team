@@ -1,0 +1,65 @@
+# Team roster — the registry of agents.
+# Add/remove a team member by editing this file (+ its agents/<id>/agent.md folder).
+# Set active: false to pause an agent while keeping its definition.
+# The Chief of Staff reads this each run to decide who works.
+
+version: 1
+company: jaan
+front_door: telegram          # the CEO's single interface (see core/telegram.md)
+orchestration: single_writer  # only chief-of-staff commits shared state
+
+agents:
+  - id: chief-of-staff
+    role: Orchestrator, single writer, Telegram front door, budget cop
+    active: true
+    cadence: daily             # primary Automation runs this one
+    model_tier: strong
+    prompt: agents/chief-of-staff/agent.md
+    writes: [reports, memory, outbox, memory/telegram_offset]
+
+  - id: executive-assistant
+    role: Gmail triage + draft replies (lean)
+    active: true
+    cadence: daily
+    model_tier: fast
+    prompt: agents/executive-assistant/agent.md
+    tools: [gmail, gdrive, gcal]
+    writes: []                 # returns to chief-of-staff
+
+  - id: research-analyst
+    role: ICP / market / competitor research feeding outreach
+    active: true
+    cadence: daily
+    model_tier: fast           # strong only for dossiers
+    prompt: agents/research-analyst/agent.md
+    tools: [web, gdrive]
+    writes: []
+
+  - id: customer-outreach
+    role: Design-partner sourcing + sequenced, approval-gated outreach
+    active: true
+    cadence: daily
+    model_tier: fast
+    prompt: agents/customer-outreach/agent.md
+    rate_limit_per_run: 5
+    writes: []
+
+  - id: investor-outreach
+    role: Pre-seed investor research + sequenced, approval-gated outreach
+    active: true
+    cadence: daily
+    model_tier: fast
+    prompt: agents/investor-outreach/agent.md
+    rate_limit_per_run: 3
+    writes: []
+
+  - id: red-team
+    role: Reviews every report + outbound draft before it reaches the CEO
+    active: true
+    cadence: per_run           # invoked by chief-of-staff over new drafts/reports
+    model_tier: strong
+    prompt: agents/red-team/agent.md
+    writes: []
+
+# Budget note: start lean. If cost matters, keep chief-of-staff + research-analyst +
+# customer-outreach live and set the others active: false until needed (see core/budget.md).
