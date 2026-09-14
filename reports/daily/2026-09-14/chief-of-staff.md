@@ -16,7 +16,7 @@ First scheduled run. Telegram inbound/outbound blocked (secrets not in the envir
 - Wrote CRM (6 customers, 6 investors), decision log for Impact Labs scope tension, daily reports + brief.
 - Added a private Calendar block for Tim Jones 2026-09-24 17:00 IL (no attendees).
 
-## Needs CEO
+## Needs HUMAN
 - [ ] Add Telegram secrets so the next run can brief you.
 - [ ] Yaron 15:00 IL 24 Sep — proposed, not booked.
 - [ ] Optional: confirm ICP batch for next-run drafts.
@@ -29,7 +29,7 @@ First scheduled run. Telegram inbound/outbound blocked (secrets not in the envir
 - Sequencer dates set: Impact Labs 2026-09-22; Horizon/ICI 2026-09-18; Innosphere 2026-09-24.
 
 ## Next
-- Next run: poll Telegram if secrets exist; apply any approve/reject; check Yaron/Horizon replies; draft ICP notes only if CEO asked.
+- Next run: poll Telegram if secrets exist; apply any approve/reject; check Yaron/Horizon replies; draft ICP notes only if HUMAN asked.
 
 ## Flags
 - Never send to a third party without explicit approval on that item — none sent.

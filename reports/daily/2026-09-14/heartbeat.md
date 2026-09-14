@@ -7,17 +7,17 @@ run: afternoon-heartbeat
 ---
 
 ## Summary
-Second CoS pass today. New facts from Gmail + Calendar, not from Telegram (bot 404). Corrected ICI start time, logged Tim’s Zoom, created Horizon CRM, surfaced Pearl Cohen kickoff tomorrow. No outbound. Morning market-model work still stands; CEO decisions from the morning brief are unanswered.
+Second CoS pass today. New facts from Gmail + Calendar, not from Telegram (bot 404). Corrected ICI start time, logged Tim’s Zoom, created Horizon CRM, surfaced Pearl Cohen kickoff tomorrow. No outbound. Morning market-model work still stands; HUMAN decisions from the morning brief are unanswered.
 
 ## Actions taken
 - Telegram `getUpdates`: HTTP 404 (token present, API Not Found) — same as morning
 - Approvals: outbox empty, nothing to send
-- Spawned no extra research/outreach subagents (budget): ICI is `replied` / in-conversation; Horizon already sent by CEO; no customer CRM
+- Spawned no extra research/outreach subagents (budget): ICI is `replied` / in-conversation; Horizon already sent by HUMAN; no customer CRM
 - EA-equivalent triage on Gmail + Calendar
 - CRM: ICI updated; Horizon Capital created
 - ICI meeting prep time corrected to 10:00 IL
 
-## Needs CEO
+## Needs HUMAN
 See `reports/daily/2026-09-14/brief.md`.
 
 ## Drafts queued

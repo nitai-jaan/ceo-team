@@ -32,9 +32,9 @@ Met Nitai at HaRetzif (Toolbox) on 2026-09-10.
 
 ## Angle
 
-Do not cold-outreach or escalate to Jacobi/Segal unless the CEO asks. Tom already has the deck. Pause automated sequence; wait for a reply or CEO instruction.
+Do not cold-outreach or escalate to Jacobi/Segal unless the HUMAN asks. Tom already has the deck. Pause automated sequence; wait for a reply or HUMAN instruction.
 
 ## Log
 
 - 2026-09-10 — Tom emailed Nitai (personal Gmail) after HaRetzif: impressed; unsure if jaan is fundraising yet; stay in touch; happy to reconnect with a partner when ready; asked for a deck.
-- 2026-09-14 — Nitai replied from `nitai.kluger@gmail.com`, cc `nitai@jaan.world`, attached `jaan-deck.pdf`, pointed to https://jaan.world/, asked future mail to the work address. Status `awaiting_reply`. Sequencer: follow-up only if no reply by 2026-09-18, and only as a CEO-approved draft — this is not a process.
+- 2026-09-14 — Nitai replied from `nitai.kluger@gmail.com`, cc `nitai@jaan.world`, attached `jaan-deck.pdf`, pointed to https://jaan.world/, asked future mail to the work address. Status `awaiting_reply`. Sequencer: follow-up only if no reply by 2026-09-18, and only as a HUMAN-approved draft — this is not a process.

@@ -13,7 +13,7 @@ Reviewed the afternoon brief, EA report, ICI prep time correction, ICI CRM updat
 - Read afternoon artifacts + `memory/company.md` Market block
 - Spot-checked Omer Granot against [ici.fund](https://ici.fund/team-member/omer-granot/) and Horizon against [horizoncap.vc](https://horizoncap.vc/) / LinkedIn title
 
-## Needs CEO
+## Needs HUMAN
 - none (quality gate)
 
 ## Drafts queued
@@ -23,7 +23,7 @@ Reviewed the afternoon brief, EA report, ICI prep time correction, ICI CRM updat
 
 | Item | Verdict |
 |---|---|
-| `brief.md` (afternoon) | pass — ICI 10:00 sourced to calendar; Pearl Cohen framed as CEO-only legal; Tracxn not invented onto calendar |
+| `brief.md` (afternoon) | pass — ICI 10:00 sourced to calendar; Pearl Cohen framed as HUMAN-only legal; Tracxn not invented onto calendar |
 | `executive-assistant.md` | pass |
 | `heartbeat.md` | pass |
 | `memory/crm/investors/ici-fund.md` | pass — Omer sourced; Zoom noted without pasting the passcode |
@@ -32,7 +32,7 @@ Reviewed the afternoon brief, EA report, ICI prep time correction, ICI CRM updat
 | Outbound drafts | n/a |
 
 ## Next
-- After 2026-09-15 coffee: review any ICI follow-up draft before it reaches the CEO
+- After 2026-09-15 coffee: review any ICI follow-up draft before it reaches the HUMAN
 
 ## Flags
 - Residual: $15–40M SAM is still inference. Do not speak it as a counted census in the coffee.

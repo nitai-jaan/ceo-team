@@ -9,7 +9,7 @@ handles:
   email: idan@impactlabs.tech
   linkedin: null
 source: inbox
-fit_rationale: "Tel Aviv AM/hardware innovation center exploring whether jaan can rank robotic-arm feasibility on a real vapour-smoothing hang task before they commit hardware — live CEO-owned thread, not a signed design partnership."
+fit_rationale: "Tel Aviv AM/hardware innovation center exploring whether jaan can rank robotic-arm feasibility on a real vapour-smoothing hang task before they commit hardware — live HUMAN-owned thread, not a signed design partnership."
 status: awaiting_reply
 owner: customer-outreach
 last_contact: 2026-09-09
@@ -17,14 +17,14 @@ last_reply: 2026-09-08
 next_action_date: 2026-09-22
 touches: 4
 do_not_contact: false
-tags: [exploratory, manufacturing, am, israel, ceo-owned]
+tags: [exploratory, manufacturing, am, israel, human-owned]
 ---
 
 ## Context
 **Facts (public)**
 - Impact Labs is a Tel Aviv hardware / additive-manufacturing innovation center (site: https://www.impactlabs.tech/?lang=en). Idan Keisar is a co-founder (quoted in Tritone Dim install coverage: https://dailycadcam.com/impact-labs-introduces-tritone-dim-system-for-industrial-additive-manufacturing-of-metal-and-ceramic-parts-in-israel/).
 
-**Facts (inbox — CEO-owned thread `Introduction to Jaan`)**
+**Facts (inbox — HUMAN-owned thread `Introduction to Jaan`)**
 - 2026-08-27 — Nitai sent one-pager + deck after a call.
 - 2026-08-27 — Idan asked whether jaan can answer *pre-automation* feasibility (robotic arm on a live serial production process) without a trained policy; specifically an off-the-shelf foundation model as a proxy.
 - 2026-08-28 — Nitai answered yes to both questions and said this would also help design jaan's MVP. (Tension with `memory/company.md` "teams bring a policy" — do not silently rewrite that sent email; flag in future drafts.)
@@ -40,4 +40,4 @@ tags: [exploratory, manufacturing, am, israel, ceo-owned]
 If/when the thread resumes: site visit first (Idan's ask), then a tight technical read on deformable hang fixtures + variant ranking — without overstating current world-model scope.
 
 ## Log
-- 2026-09-14 — CRM created by chief-of-staff from Gmail + public sources. Sequencer paused until 2026-09-22 (holidays; last CEO note already offered to wait).
+- 2026-09-14 — CRM created by chief-of-staff from Gmail + public sources. Sequencer paused until 2026-09-22 (holidays; last HUMAN note already offered to wait).

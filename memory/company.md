@@ -88,7 +88,7 @@ orders for external conversations until the HUMAN confirms):
 
 - **Stage:** pre-seed. No committed customers, design partners, or investors. No other employees yet.
 - **Live threads (none committed; as of 2026-09-14, from inbox — not traction):**
-  - Impact Labs / Idan Keisar — exploratory conversation; site visit offered; CEO-owned. Not a design partner.
+  - Impact Labs / Idan Keisar — exploratory conversation; site visit offered; HUMAN-owned. Not a design partner.
   - ICI Fund — deck sent; Yaron time not confirmed.
   - Innosphere / Tim Jones — 2026-09-24 17:00 IL email-accepted (ICI intro); not a standalone raise.
   - Horizon Capital / Tom Kaverman — stay-in-touch + deck after HaRetzif; not a formal process.

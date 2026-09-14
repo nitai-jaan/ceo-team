@@ -14,13 +14,13 @@ Inbox + calendar pass after the morning ICI prep. Three time-sensitive items: IC
 - Read calendar 14–25 Sep Asia/Jerusalem
 - Flagged RSVP gaps and a Tracxn slot that is not on the calendar
 
-## Needs CEO
+## Needs HUMAN
 - [ ] Confirm you saw ICI is **10:00 IL tomorrow**, Landwer Sarona (calendar updated 14:34 IDT)
 - [ ] Pearl Cohen kickoff tomorrow 13:00 IL (Teams) — this is an engagement-letter close, i.e. a legal/money decision. Do not sign from an agent.
 - [ ] Still unresolved from this morning: market talk-track, what’s built vs slideware, raise ask
 
 ## Drafts queued
-- none (CEO already sent Horizon + Tracxn replies; ICI in active process; Pearl Cohen is a live negotiation)
+- none (HUMAN already sent Horizon + Tracxn replies; ICI in active process; Pearl Cohen is a live negotiation)
 
 ## Findings / state changes
 - **ICI in-person:** 2026-09-15 10:00–11:00 Asia/Jerusalem, Landwer Coffee Sarona. Organizer Aviv (accepted). Nitai accepted. Alon, Gili, Yaron = `needsAction`.
@@ -31,10 +31,10 @@ Inbox + calendar pass after the morning ICI prep. Three time-sensitive items: IC
 
 ## Next
 - Tomorrow: ingest ICI coffee notes; do not draft ICI follow-up unless asked
-- If Horizon is silent by 2026-09-18, draft a short bump only if the CEO wants one
+- If Horizon is silent by 2026-09-18, draft a short bump only if the HUMAN wants one
 
 ## Flags
-- Telegram bot still 404 — this report will not reach the CEO via Telegram from this run
+- Telegram bot still 404 — this report will not reach the HUMAN via Telegram from this run
 - Alon has not accepted the ICI invite
 - Do not paste Pearl Cohen fee/deferral numbers into outbound; they are in the 7 Sep thread if you need them on the 13:00 call
 - HF law firm (Nitzan) intro from August is idle; not time-sensitive this week
