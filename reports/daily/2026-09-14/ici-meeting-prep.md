@@ -1,8 +1,9 @@
-# ICI Fund meeting prep — 2026-09-15 10:30 IL
+# ICI Fund meeting prep — 2026-09-15 10:00 IL
 
 **Where:** Landwer Coffee Sarona · 60 min · in person
-**Who:** Nitai (accepted), Alon, Aviv Nizri (organizer, accepted), Gili Elkin (MP), Yaron Wolfsthal (Partner)
-**This is:** second conversation after 2026-09-10 (Aviv + briefly Yaron). Deck already sent to Yaron today. Separate Tim Jones / Innosphere call **2026-09-24 17:00 IL** — do not treat tomorrow as that conversation.
+**When:** 10:00–11:00 Asia/Jerusalem (calendar updated 2026-09-14 14:34 IDT; earlier memos said 10:30 — use 10:00)
+**Who:** Nitai (accepted), Alon (`needsAction` on invite), Aviv Nizri (organizer, accepted), Gili Elkin (MP, `needsAction`), Yaron Wolfsthal (Partner, `needsAction`)
+**This is:** second conversation after 2026-09-10 (Aviv + briefly Yaron). Deck already sent to Yaron today. Separate Tim Jones / Innosphere Zoom **2026-09-24 17:00 IL** (invite received 2026-09-14; optional: Gili, Yaron, Aviv, Alon, Omer Granot) — do not treat tomorrow as that conversation.
 
 Full market critique: `reports/daily/2026-09-14/market-model.md`.
 
@@ -15,7 +16,8 @@ Full market critique: `reports/daily/2026-09-14/market-model.md`.
 | **Aviv Nizri** (`aviv@ici.fund`) | Principal; champion from Thu | That the second meeting converts Gili + Yaron. Process, founder quality. | Ally. Recap since Thu. Do not make him defend a sloppy TAM. Bio: [ici.fund](https://ici.fund/team-member/aviv-nizri/) |
 | **Yaron Wolfsthal** (`yaron@ici.fund`) | Partner (joined Oct 2024). Founded IBM Cybersecurity CoE Israel; IBM Ventures Israel M&A liaison; BGU adjunct; 100+ pubs. | Eval validity, world models, sim-to-real, built vs slideware, “why not Isaac?” | Alon leads. Bounded claims. If he emailed questions overnight, *that* is the agenda. [bio](https://ici.fund/team-member/yaron-wolfsthal/) · [CTech appointment](https://www.calcalistech.com/ctechnews/article/bjjrogfca) |
 | **Gili Elkin** (`gili@ici.fund`) | Co-founder & Managing Partner. Stanford MBA. Boards: Kando, Genda, Pelles.ai, Rangers.ai, illumex (NVIDIA, Feb 2026). | Israeli founder → US GTM, capital efficiency, first-check / lead / board, whether she wants jaan in the ICI community. | Nitai leads. Design-partner *search process*, not fake names. No US-office fantasy. [bio](https://ici.fund/team-member/gili-elkin/) |
-| **Tim Jones** | Partner ICI + COO Innosphere (Colorado) | **Not in the room.** US scale-up. | One sentence: we speak on the 24th. [bio](https://ici.fund/team-member/tim-jones_/) |
+| **Tim Jones** | Partner ICI + COO Innosphere (Colorado) | **Not in the room.** US scale-up. | One sentence: we speak on the 24th (Zoom already sent). [bio](https://ici.fund/team-member/tim-jones_/) |
+| **Omer Granot** | Venture Partner ([bio](https://ici.fund/team-member/omer-granot/)) | **Not expected at the coffee.** On the 24 Sep Zoom as optional. | Do not brief as if he is in the room tomorrow. |
 
 **Thesis fit (honest):** Strong on paper — Israeli technical founders, pre-seed, B2B AI infra, Robotics + GenAI listed on [ici.fund](https://ici.fund/). Mild mismatch: ICI often backs AI sold into conservative industries (water, construction, healthcare). Frame jaan as **infra that makes Physical AI deployable**, not as a utility app.
 
