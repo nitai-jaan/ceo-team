@@ -6,14 +6,14 @@ cost_tier: strong
 ---
 
 ## Summary
-Critiqued the CEO-provided 1,600-company / $91M SAM model and rebuilt a three-layer TAM / SAM / SOM model for the 2026-09-15 ICI Fund meeting. Published category numbers are sourced; SAM / ACV / beachhead are labeled INFERENCE. jaan still has no customers, no investors, and no realized ACV.
+Critiqued the HUMAN-provided 1,600-company / $91M SAM model and rebuilt a three-layer TAM / SAM / SOM model for the 2026-09-15 ICI Fund meeting. Published category numbers are sourced; SAM / ACV / beachhead are labeled INFERENCE. jaan still has no customers, no investors, and no realized ACV.
 
 ## Actions taken
 - Read `agents/research-analyst/agent.md`, `memory/company.md`, `core/report-schema.md`
 - Verified and extended IFR, Tracxn, Crunchbase, humanoid directories, Mordor, MarketIntelo, MarketsandMarkets, Sacra/Applied Intuition, Vendr/W&B
 - Wrote the investor-facing memo at `reports/daily/2026-09-14/market-model.md` (via Chief of Staff)
 
-## Needs CEO
+## Needs HUMAN
 - [ ] Adopt the conservative ICI talk-track (retire 1,600-company TAM, $91M SAM, 36.5% CAGR, and “25% of senior engineer time”)
 - [ ] After the meeting: confirm whether `memory/company.md` Market block is updated to the rebuilt model
 
@@ -28,9 +28,9 @@ Critiqued the CEO-provided 1,600-company / $91M SAM model and rebuilt a three-la
 - Tracxn Autonomous Robotics Series A+ = 480 (upper bound, not a buyer list)
 
 ## Next
-- 10–15 logo beachhead shortlist (humanoid + VLA manipulation, architectural filter applied) if CEO asks
+- 10–15 logo beachhead shortlist (humanoid + VLA manipulation, architectural filter applied) if HUMAN asks
 - Deduplicate Tracxn Industrial ∩ Autonomous Robotics ∩ AV (needs paid export)
-- Second ACV analog (Foretellix / Ansys / dSPACE) if CEO wants another pricing comparable
+- Second ACV analog (Foretellix / Ansys / dSPACE) if HUMAN wants another pricing comparable
 
 ## Flags
 - Traction is zero. Inventing logos or pipeline value for ICI is a Red Team fail.

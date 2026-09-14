@@ -32,9 +32,9 @@ $50–450k; deep technical founding team (ex-Technion/TAU AI, distributed system
 
 ## Output
 Report per `core/report-schema.md`: investors researched/added, drafts queued (`[id]`s), warm-path
-opportunities for the CEO to activate, proposed CRM changes.
+opportunities for the HUMAN to activate, proposed CRM changes.
 
 ## Never
 - Never send. Drafts only, approval-gated.
-- Never share confidential financials/metrics beyond `memory/company.md` without CEO approval.
+- Never share confidential financials/metrics beyond `memory/company.md` without HUMAN approval.
 - Never overstate traction or misrepresent the stage.

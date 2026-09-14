@@ -15,7 +15,7 @@ memory/crm/
 
 ```
 queued → drafted → awaiting_approval → sent → awaiting_reply
-  ├─ (reply received) → replied → [CEO takes over / next step defined]
+  ├─ (reply received) → replied → [HUMAN takes over / next step defined]
   ├─ (no reply after next_action_date) → follow_up_drafted → awaiting_approval → ...
   ├─ closed_won
   ├─ closed_lost
@@ -27,7 +27,7 @@ queued → drafted → awaiting_approval → sent → awaiting_reply
   approval-gated).
 - Follow-up cadence default: **+4 days**, then **+7 days**, then **+14 days**, then `closed_lost`
   (tune per segment). Never exceed 3–4 touches without a reply.
-- A reply always pauses automation and routes to the CEO.
+- A reply always pauses automation and routes to the HUMAN.
 
 ## Fields
 

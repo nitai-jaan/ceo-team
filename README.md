@@ -1,6 +1,6 @@
-# ceo-team
+# human-team
 
-The agentic team for the CEO of **[jaan](https://jaan.world)** — the evaluation layer for Physical AI.
+The agentic team for the HUMAN of **[jaan](https://jaan.world)** — the evaluation layer for Physical AI.
 
 This repository **is** the team. Each "team member" is a role prompt (`agents/<role>/agent.md`),
 scheduled as a [Cursor Cloud Agent](https://cursor.com/docs/cloud-agent) via
@@ -47,7 +47,7 @@ Key design rules:
 | `memory/company.md` | Distilled jaan context (product, ICP, voice) — grounds every agent. |
 | `memory/crm/` | Per-contact state machines for customers + investors. |
 | `memory/decisions/` | Decision log. |
-| `reports/daily/YYYY-MM-DD/` | Each agent's report + the consolidated CEO brief. |
+| `reports/daily/YYYY-MM-DD/` | Each agent's report + the consolidated HUMAN brief. |
 | `outbox/{pending,approved,sent,rejected}/` | Approval-gated outbound messages. |
 | `.cursor/environment.json` | Cloud Agent environment definition. |
 
@@ -62,7 +62,7 @@ See `team/roster.yaml`. Current phase-1 squad:
 - **Investor Outreach** — pre-seed investor research + sequenced, approval-gated outreach.
 - **Red Team** — reviews every report and outbound draft before it reaches you.
 
-## Setup (one-time, done by the CEO)
+## Setup (one-time, done by the HUMAN)
 
 1. **Telegram secrets** — add `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` in the Cloud Agent
    **Secrets** panel (see `core/telegram.md`).

@@ -49,7 +49,7 @@ scenarios/edge-cases) → **3) Evaluate** (closed-loop rollouts on generative wo
 
 Working hypothesis (original bottoms-up, under revision after the 2026-09-14 critique —
 see `reports/daily/2026-09-14/market-model.md` and
-`memory/decisions/2026-09-14-market-model-revision.md`; CEO has not yet adopted the revision):
+`memory/decisions/2026-09-14-market-model-revision.md`; HUMAN has not yet adopted the revision):
 
 - **ICP (original):** ~500 embodied-AI companies, filtered for large scale. Internally inconsistent
   with the 300 / 330 headline counts used in the same model.
@@ -58,8 +58,8 @@ see `reports/daily/2026-09-14/market-model.md` and
 - **SAM (original, 100% attach):** ~$90M / yr. This is every listed ICP buying at hypothesized
   price — a theoretical max, not a diligence-grade SAM.
 
-Proposed investor-safe framing (2026-09-14 research — **pending CEO adoption**; not standing
-orders for external conversations until the CEO confirms):
+Proposed investor-safe framing (2026-09-14 research — **pending HUMAN adoption**; not standing
+orders for external conversations until the HUMAN confirms):
 
 - **TAM:** robotic software platforms ~$6.07B (2025) / $7.58B (2026) (Mordor). Simulation +
   digital-twin slice ~26.5% in 2025 ≈ $1.6B. jaan is a wedge inside that slice, not the slice.
@@ -75,7 +75,7 @@ orders for external conversations until the CEO confirms):
 ## Team
 
 - **Nitai — CEO.** Technion LAPIDIM alumni; high-performance distributed systems lead at a startup;
-  B.Sc. CS (Technion), M.Sc. AI Research (Tel Aviv University). *(The CEO this team serves.)*
+  B.Sc. CS (Technion), M.Sc. AI Research (Tel Aviv University). *(The HUMAN this team serves.)*
 - **Alon — CTO.** Ex-technological researcher lead (Israeli Intelligence); former AWS platform and AI
   systems engineer; B.Sc. CS (Technion), M.Sc. AI Research (Tel Aviv University).
 
@@ -107,4 +107,4 @@ orders for external conversations until the CEO confirms):
 ## Do-not
 
 - Do not overstate traction (we have none yet) or invent customer names, metrics, or endorsements.
-- Do not make technical claims beyond this document without CEO confirmation.
+- Do not make technical claims beyond this document without HUMAN confirmation.

@@ -5,7 +5,7 @@
 
 version: 1
 company: jaan
-front_door: telegram          # the CEO's single interface (see core/telegram.md)
+front_door: telegram          # the HUMAN's single interface (see core/telegram.md)
 orchestration: single_writer  # only chief-of-staff commits shared state
 
 agents:
@@ -54,7 +54,7 @@ agents:
     writes: []
 
   - id: red-team
-    role: Reviews every report + outbound draft before it reaches the CEO
+    role: Reviews every report + outbound draft before it reaches the HUMAN
     active: true
     cadence: per_run           # invoked by chief-of-staff over new drafts/reports
     model_tier: strong

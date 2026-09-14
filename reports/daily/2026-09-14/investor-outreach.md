@@ -14,7 +14,7 @@ Built a sourced ICI Fund dossier and a 60-minute coffee brief for tomorrow’s s
 - Meeting brief written at `reports/daily/2026-09-14/ici-meeting-prep.md`
 - CRM proposed and created: `memory/crm/investors/ici-fund.md`
 
-## Needs CEO
+## Needs HUMAN
 - [ ] Confirm what is actually built vs intended (world-model stack, policy interface, any internal demo) so Alon does not improvise
 - [ ] Confirm raise ask / round shape if asked (amount, lead vs syndicate, board). We do not know this.
 - [ ] Do not send anything. Meeting is booked.

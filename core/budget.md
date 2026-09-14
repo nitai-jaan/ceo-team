@@ -7,7 +7,7 @@ Chief of Staff enforces these rules and reports spend in the daily brief.
 
 - **One consolidated daily run** (Chief of Staff orchestrates everything). Avoid multiple separate
   scheduled runs per agent — each run has fixed overhead.
-- **On-demand runs** only when the CEO asks (e.g. "prep me for the 3pm").
+- **On-demand runs** only when the HUMAN asks (e.g. "prep me for the 3pm").
 - **Batch, don't stream.** Outreach drafting is rate-limited (see below), not a firehose.
 
 ## Skip idle work

@@ -1,4 +1,4 @@
 {
-  "name": "jaan CEO Agent Team",
-  "install": "test -f AGENTS.md && test -f team/roster.yaml && echo 'ceo-team scaffold present'"
+  "name": "jaan HUMAN Agent Team",
+  "install": "test -f AGENTS.md && test -f team/roster.yaml && echo 'human-team scaffold present'"
 }
