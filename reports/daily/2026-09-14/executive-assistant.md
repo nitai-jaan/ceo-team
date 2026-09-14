@@ -3,37 +3,38 @@ agent: executive-assistant
 date: 2026-09-14
 status: ok
 cost_tier: fast
+run: afternoon-heartbeat
 ---
 
 ## Summary
-First live inbox/calendar pass on nitai@jaan.world. No third-party sends. The only time-sensitive items are investor scheduling (Yaron unconfirmed; Tim 09-24 email-accepted) and a holiday-paused Impact Labs thread. Today’s calendar was empty; a private block was added for Tim.
+Inbox + calendar pass after the morning ICI prep. Three time-sensitive items: ICI in-person moved to **10:00–11:00 IL** (not 10:30); Tim Jones sent a Zoom invite for 24 Sep; Pearl Cohen kickoff is on the calendar tomorrow 13:00 IL. Horizon Capital is a new investor thread Nitai already answered. No drafts queued.
 
 ## Actions taken
-- Triaged inbox (last 14 days + unread). Did not archive, delete, or send.
-- Noted CEO’s own outbound (Horizon stay-in-touch + ICI deck) so they are not treated as inbound needing a reply.
-- Created a **private** Google Calendar block for Tim Jones / Innosphere on 2026-09-24 17:00–18:00 Asia/Jerusalem with **no attendees** (no invite sent). No Meet link exists in the thread.
+- Triaged Gmail last 3 days + Pearl Cohen / ICI / Horizon threads
+- Read calendar 14–25 Sep Asia/Jerusalem
+- Flagged RSVP gaps and a Tracxn slot that is not on the calendar
 
 ## Needs CEO
-- [ ] Confirm Yaron (ICI) 15:00 IL on 2026-09-24 — proposed today, not accepted.
-- [ ] Decide whether to chase Pearl Cohen’s legal proposal (last inbound 2026-09-03) or hold.
-- [ ] Add `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` in Cloud Agent Secrets so briefs can reach you (this run could not).
+- [ ] Confirm you saw ICI is **10:00 IL tomorrow**, Landwer Sarona (calendar updated 14:34 IDT)
+- [ ] Pearl Cohen kickoff tomorrow 13:00 IL (Teams) — this is an engagement-letter close, i.e. a legal/money decision. Do not sign from an agent.
+- [ ] Still unresolved from this morning: market talk-track, what’s built vs slideware, raise ask
 
 ## Drafts queued
-- (none) — live threads already have CEO replies; no routine reply was safe to draft without a new ask.
+- none (CEO already sent Horizon + Tracxn replies; ICI in active process; Pearl Cohen is a live negotiation)
 
 ## Findings / state changes
-- **Unread (3):** (1) self-CC of Nitai→Tom Kaverman stay-in-touch + deck (2026-09-14) — not inbound; (2–3) Tracxn sales/onboarding — FYI, ignore.
-- **ICI / Innosphere:** Yaron asked for a deck (2026-09-13) and suggested 10:00 on 23/24. Nitai sent the deck (2026-09-14) and proposed 15:00 on the 24th. Tim Jones call **accepted by us** 2026-09-12 for 2026-09-24 17:00 IL — was missing from Calendar; now a private block.
-- **Impact Labs:** last inbound 2026-09-08 (site-visit offer during holidays); Nitai replied 2026-09-09; no reply since. Do not bump during holidays.
-- **Pearl Cohen:** last chase 2026-09-03 after Nitai said he’d reply that week (08-31). Aging legal decision.
-- **Goldfarb / Chen Manzur:** last mail 2026-08-19 (Nitai offered 17:30+). Stale; last word is ours.
-- **FYI:** GitHub PR #1 merged into main (ceo-team scaffold).
-- **Today:** no other calendar events.
+- **ICI in-person:** 2026-09-15 10:00–11:00 Asia/Jerusalem, Landwer Coffee Sarona. Organizer Aviv (accepted). Nitai accepted. Alon, Gili, Yaron = `needsAction`.
+- **Tim Jones:** 2026-09-14 14:53Z Zoom invite for 2026-09-24 17:00 IL. Optional attendees include Gili, Yaron, Aviv, Alon, **Omer Granot** (`omer@ici.fund`, Venture Partner per [ici.fund](https://ici.fund/team-member/omer-granot/)). Link lives on the calendar event.
+- **Pearl Cohen:** Kickoff 2026-09-15 13:00–13:30 IL, Teams, Guy Lachmann + Hadar Volberg-Groshar. Engagement letter (27 Aug) still unsigned. Guy replied 7 Sep in-thread to Nitai’s seven commercial questions. Latest Gmail on that thread is Guy’s 7 Sep answers; the kickoff invite itself did not show up as a separate Gmail subject in search.
+- **Horizon Capital:** Tom Kaverman (`tomk@horizoncap.vc`) 10 Sep after HaRetzif; Nitai sent deck 14 Sep 08:00 IDT from personal Gmail, cc work. CRM created.
+- **Tracxn (vendor):** Nitai offered 15 Sep 15:00 GMT (18:00 IL). **Not on calendar.** Sales onboarding, not a customer.
 
 ## Next
-- Watch Yaron confirm / Tim logistics. After 2026-09-22, check Impact Labs if still silent.
-- Do not draft Goldfarb or Pearl Cohen without an explicit CEO intent.
+- Tomorrow: ingest ICI coffee notes; do not draft ICI follow-up unless asked
+- If Horizon is silent by 2026-09-18, draft a short bump only if the CEO wants one
 
 ## Flags
-- Telegram secrets were **not** injected into this run — brief cannot be sent on the CEO front door.
-- Signature phone numbers exist on some legal threads; not copied into CRM or this report.
+- Telegram bot still 404 — this report will not reach the CEO via Telegram from this run
+- Alon has not accepted the ICI invite
+- Do not paste Pearl Cohen fee/deferral numbers into outbound; they are in the 7 Sep thread if you need them on the 13:00 call
+- HF law firm (Nitzan) intro from August is idle; not time-sensitive this week

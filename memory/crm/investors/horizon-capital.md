@@ -4,12 +4,14 @@ name: Horizon Capital
 segment: investor
 type: preseed_fund
 person: Tom Kaverman
-role: Investment & Value Creation (not a Managing Partner)
+role: Associate & Head of Marketing (not a partner)
 handles:
   email: tomk@horizoncap.vc
-  linkedin: https://www.linkedin.com/in/tom-kaverman
-source: inbox
-fit_rationale: "Israeli pre-seed/seed first-check fund; live stay-in-touch after a Toolbox/HaRetzif meeting — relationship owner, not a formal raise process."
+  website: https://horizoncap.vc/
+  linkedin_person: https://www.linkedin.com/in/tom-kaverman
+  linkedin_firm: https://www.linkedin.com/company/horizoncapitalvc
+source: warm-path / HaRetzif (Toolbox) 2026-09-10
+fit_rationale: "Israeli early-stage VC, pre-seed/seed, Israeli founders (firm site + LinkedIn). Contact is an associate who asked to stay in touch and reconnect with a partner when jaan is ready to raise. Not an active process."
 status: awaiting_reply
 owner: investor-outreach
 last_contact: 2026-09-14
@@ -17,24 +19,22 @@ last_reply: 2026-09-10
 next_action_date: 2026-09-18
 touches: 1
 do_not_contact: false
-tags: [israel, preseed, stay-in-touch, not-formal-process]
+tags: [preseed, israeli-founders, warm-path, haretzif, associate]
 ---
 
 ## Context
-**Fact (inbox):** Met at HaRetzif/Toolbox. Tom emailed 2026-09-10 (impressed; asked for deck; offered to reconnect when ready to raise and to set a meeting with a partner). Nitai replied 2026-09-14 from personal Gmail, CC nitai@jaan.world, with deck + jaan.world. Awaiting reply.
 
-**Fact (public):** Tel Aviv firm, Israeli founders, pre-seed/seed. Public pre-seed checks $500K–$2M. Software-driven, sector-agnostic, B2B SaaS bias. FAQ: they back pre-revenue / pre-product. Sources: https://horizoncap.vc/ https://horizoncap.vc/faq/
+Horizon Capital is a Tel Aviv early-stage firm (founded 2012; formerly Oryzn Capital) that invests in Israeli founders at pre-seed/seed ([horizoncap.vc](https://horizoncap.vc/), [LinkedIn company](https://www.linkedin.com/company/horizoncapitalvc)). Managing partners named publicly: Yaniv Jacobi, Lior Segal. **AUM / check size: not in memory — do not invent.**
 
-**Fact (public):** Managing Partners are Yaniv Jacobi and Lior Segal. Tom Kaverman is listed under Investment & Value Creation — **not a check-writing partner**. Source: https://horizoncap.vc/
+Tom Kaverman: Associate & Head of Marketing as of June 2026 (previously Value Creation Manager). Email signature 2026-09-10 matches that title. She is **not** a partner; her note offered to reconnect and set up a meeting with a partner once jaan is ready to raise.
 
-**Fact (public):** CTech 2025: MPs describe rising expectation of MVP/early users and ~$1M ARR on a $1M pre-seed in AI-native SaaS — tension with pre-revenue Physical AI eval. Source: https://www.calcalistech.com/ctechnews/article/qeinarck8
-
-**Not fact:** This is not a committed investor conversation or a formal process.
+Met Nitai at HaRetzif (Toolbox) on 2026-09-10.
 
 ## Angle
-Israeli technical founders building B2B software/AI infra (eval layer, not a robot OEM). Stay-in-touch only; a real check would still need MP conviction. Do not pitch ARR velocity.
+
+Do not cold-outreach or escalate to Jacobi/Segal unless the CEO asks. Tom already has the deck. Pause automated sequence; wait for a reply or CEO instruction.
 
 ## Log
-- 2026-09-14 — CRM created from inbox + public sources.
-- 2026-09-10 — Tom inbound after HaRetzif.
-- 2026-09-14 — Nitai stay-in-touch + deck. Touch 1. Awaiting reply.
+
+- 2026-09-10 — Tom emailed Nitai (personal Gmail) after HaRetzif: impressed; unsure if jaan is fundraising yet; stay in touch; happy to reconnect with a partner when ready; asked for a deck.
+- 2026-09-14 — Nitai replied from `nitai.kluger@gmail.com`, cc `nitai@jaan.world`, attached `jaan-deck.pdf`, pointed to https://jaan.world/, asked future mail to the work address. Status `awaiting_reply`. Sequencer: follow-up only if no reply by 2026-09-18, and only as a CEO-approved draft — this is not a process.
