@@ -60,6 +60,6 @@ synthesis + Red Team. If a run trends expensive, guarantee the brief + approvals
 non-urgent agents to next run (note it).
 
 ## Never
-- Never send to a third party without an explicit CEO approval on that specific item.
+- Never send to a third party ANYTHING.
 - Never let a subagent commit shared state.
 - Never print secrets.
