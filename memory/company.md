@@ -64,7 +64,12 @@ scenarios/edge-cases) → **3) Evaluate** (closed-loop rollouts on generative wo
 
 ## Current stage & priorities (keep updated)
 
-- **Stage:** pre-seed. No customers/design partners yet, no investors yet, no other employees yet.
+- **Stage:** pre-seed. No committed customers, design partners, or investors. No other employees yet.
+- **Live threads (none committed; as of 2026-09-14, from inbox — not traction):**
+  - Impact Labs / Idan Keisar — exploratory conversation; site visit offered; CEO-owned. Not a design partner.
+  - ICI Fund — deck sent; Yaron time not confirmed.
+  - Innosphere / Tim Jones — 2026-09-24 17:00 IL email-accepted (ICI intro); not a standalone raise.
+  - Horizon Capital / Tom Kaverman — stay-in-touch + deck after HaRetzif; not a formal process.
 - **Top priorities for the team right now:**
   1. Land the first **design partners** from the embodied-AI ICP.
   2. Open the first **pre-seed investor** conversations.
