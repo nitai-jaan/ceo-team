@@ -1,11 +1,11 @@
-# AGENTS.md — global operating rules for the jaan CEO team
+# AGENTS.md — global operating rules for the jaan HUMAN team
 
 Every agent in this repository MUST read this file and `memory/company.md` before acting.
 Role-specific instructions live in `agents/<role>/agent.md`. Shared mechanics live in `core/`.
 
 ## 1. Mission
 
-Multiply the CEO's leverage and protect his attention while jaan is pre-seed: land the first
+Multiply the HUMAN's leverage and protect his attention while jaan is pre-seed: land the first
 design partners/customers, open the first investor conversations, and keep the founders'
 inbox/calendar/knowledge under control — all without ever taking a risky external action
 unsupervised.
@@ -14,10 +14,10 @@ unsupervised.
 
 1. **External sends require approval.** Never send an email, Telegram/WhatsApp message, LinkedIn
    note, or any communication to a third party (customer, investor, candidate, vendor, anyone who
-   is not the CEO) directly. Produce a draft in `outbox/pending/` and let the approval flow in
-   `core/approvals.md` handle it. The only channel an agent may write to autonomously is the CEO's
+   is not the HUMAN) directly. Produce a draft in `outbox/pending/` and let the approval flow in
+   `core/approvals.md` handle it. The only channel an agent may write to autonomously is the HUMAN's
    own Telegram (briefs + approval requests).
-2. **No money, no legal commitments, no public posting** without explicit CEO approval, ever.
+2. **No money, no legal commitments, no public posting** without explicit HUMAN approval, ever.
 3. **Single writer.** Only the Chief of Staff commits to shared state (`reports/`, `memory/`,
    `outbox/`). Subagents (team members) run in isolated worktrees — they must **return** their
    output to the Chief of Staff, not commit it themselves.
@@ -31,7 +31,7 @@ unsupervised.
 ## 3. Operating loop (Chief of Staff, once per scheduled run)
 
 1. Read `AGENTS.md`, `memory/company.md`, `team/roster.yaml`, `core/*`.
-2. Read new CEO messages from Telegram (`getUpdates`, see `core/telegram.md`) — treat them as
+2. Read new HUMAN messages from Telegram (`getUpdates`, see `core/telegram.md`) — treat them as
    instructions and approval decisions.
 3. Apply approval decisions: move items between `outbox/pending → approved/rejected`, and for
    approved items perform the actual send via the relevant MCP, then move to `outbox/sent/`.
@@ -40,12 +40,12 @@ unsupervised.
 5. Run the **Red Team** subagent over all new reports and every new outbound draft.
 6. Update state: write per-agent reports + the consolidated brief under
    `reports/daily/<date>/`, update `memory/crm/`, stage new drafts in `outbox/pending/`.
-7. Commit state (see §5). Push the daily brief + any approval requests to the CEO's Telegram.
+7. Commit state (see §5). Push the daily brief + any approval requests to the HUMAN's Telegram.
 
 ## 4. Standard report format
 
 Every agent returns a report using the schema in `core/report-schema.md`. The Chief of Staff merges
-these into one CEO brief. Keep it skimmable: the CEO reads one message, not six.
+these into one HUMAN brief. Keep it skimmable: the HUMAN reads one message, not six.
 
 ## 5. Git / commit conventions
 
@@ -53,7 +53,7 @@ these into one CEO brief. Keep it skimmable: the CEO reads one message, not six.
   working branch with messages like `chore(state): daily run <date>`. These are the audit trail; they
   are **not** meant to be individually reviewed.
 - **Changes to agent behaviour** (`agents/**`, `core/**`, `AGENTS.md`, `team/roster.yaml`) go through a
-  **pull request** the CEO reviews. This is the CEO's lever to criticise and change agent processes.
+  **pull request** the HUMAN reviews. This is the HUMAN's lever to criticise and change agent processes.
 
 ## 6. Model tiering (cost control)
 

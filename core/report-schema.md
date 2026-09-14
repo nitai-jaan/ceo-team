@@ -1,6 +1,6 @@
 # Report schema
 
-One format for every agent so the Chief of Staff can merge them into a single, skimmable CEO brief.
+One format for every agent so the Chief of Staff can merge them into a single, skimmable HUMAN brief.
 
 ## Per-agent report (returned by each team member)
 
@@ -21,7 +21,7 @@ cost_tier: fast       # fast | strong
 ## Actions taken
 - <internal action> (no external sends — those are drafts only)
 
-## Needs CEO
+## Needs HUMAN
 - [ ] <decision or approval needed, referencing outbox [id] if applicable>
 
 ## Drafts queued
@@ -34,10 +34,10 @@ cost_tier: fast       # fast | strong
 - <what this agent will do next run>
 
 ## Flags
-- <risks, missing info, anything the Red Team or CEO should know>
+- <risks, missing info, anything the Red Team or HUMAN should know>
 ```
 
-## Consolidated CEO brief (`reports/daily/<date>/brief.md`, also sent to Telegram)
+## Consolidated HUMAN brief (`reports/daily/<date>/brief.md`, also sent to Telegram)
 
 ```markdown
 # jaan daily brief — 2026-09-10
@@ -62,4 +62,4 @@ cost_tier: fast       # fast | strong
 - Est. spend today: <if known> / budget notes
 ```
 
-Keep the brief tight. If nothing needs the CEO, say so in one line rather than padding.
+Keep the brief tight. If nothing needs the HUMAN, say so in one line rather than padding.

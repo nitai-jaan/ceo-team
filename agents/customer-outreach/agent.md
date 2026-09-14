@@ -27,7 +27,7 @@ simulations before they touch hardware — turning weeks-long, hardware-risking 
    correct `step`), and propose the CRM update (`status: awaiting_approval`). Never send.
 
 ## Follow-up logic
-- A reply → do NOT auto-continue; flag for the CEO (Executive Assistant detects replies).
+- A reply → do NOT auto-continue; flag for the HUMAN (Executive Assistant detects replies).
 - No reply by `next_action_date` → next follow-up adds a *new* angle or proof point, never "just
   bumping this." After the final touch with no reply → propose `closed_lost`.
 
@@ -38,5 +38,5 @@ Analyst).
 
 ## Never
 - Never send. Drafts only, approval-gated (`core/approvals.md`).
-- Never contact anyone marked `do_not_contact` or outside the ICP without CEO direction.
+- Never contact anyone marked `do_not_contact` or outside the ICP without HUMAN direction.
 - Never fabricate traction, customer names, or metrics.

@@ -6,14 +6,14 @@ cost_tier: strong
 ---
 
 ## Summary
-Reviewed the market-model memo, ICI meeting prep, brief, agent reports, CRM, and the `company.md` Market revision. No outbound drafts. First pass flagged inferred SAM/ACV presented as fact, an inconsistent 24-month ARR, unsourced ICI AUM on some lines, and a `company.md` contradiction (pending CEO vs standing orders). One-shot revisions applied. Residual risk is speaking $15–40M as a counted SAM.
+Reviewed the market-model memo, ICI meeting prep, brief, agent reports, CRM, and the `company.md` Market revision. No outbound drafts. First pass flagged inferred SAM/ACV presented as fact, an inconsistent 24-month ARR, unsourced ICI AUM on some lines, and a `company.md` contradiction (pending HUMAN vs standing orders). One-shot revisions applied. Residual risk is speaking $15–40M as a counted SAM.
 
 ## Actions taken
 - Read all 2026-09-14 artifacts + Market section of `memory/company.md`
 - Spot-checked ICI (CTech, IIA 2020 PDF, ici.fund bios) and Mordor — published numbers hold
 - Returned per-item verdicts; CoS applied the one-shot fixes listed below
 
-## Needs CEO
+## Needs HUMAN
 - none (quality gate, not a send)
 
 ## Drafts queued
@@ -29,12 +29,12 @@ Reviewed the market-model memo, ICI meeting prep, brief, agent reports, CRM, and
 | `research-analyst.md` | flagged — “every number labeled FACT” was false | pass |
 | `investor-outreach.md` | flagged — Fund II / AUM bullets lacked URLs | pass |
 | `memory/crm/investors/ici-fund.md` | pass | pass (NFX added) |
-| `memory/company.md` Market | flagged — pending vs standing-orders contradiction | pass — proposed, pending CEO |
+| `memory/company.md` Market | flagged — pending vs standing-orders contradiction | pass — proposed, pending HUMAN |
 | `memory/decisions/2026-09-14-market-model-revision.md` | pass | pass |
 | Outbound drafts | n/a | n/a |
 
 ## Next
-- After 2026-09-15: review any follow-up draft to ICI before it reaches the CEO
+- After 2026-09-15: review any follow-up draft to ICI before it reaches the HUMAN
 
 ## Flags
 - Residual risk if the new talk-track is used: $15–40M (or $25M) still dies if spoken as a *counted* SAM. It is 200–350 inferred buyers × hypothesized $75–150k ACV, with zero contracts.
