@@ -44,11 +44,33 @@ scenarios/edge-cases) → **3) Evaluate** (closed-loop rollouts on generative wo
 ## Market
 
 - **GTM:** AI-first robotics companies already spending heavily on internal simulation and validation.
-- **ICP:** ~500 embodied-AI companies, filtered for large scale.
-- **ACV:** $50–450k annual, priced as a fraction of in-house sim & eval engineering.
-- **SAM (2026 baseline):** ~$90M annual serviceable market.
 - **Category tags:** AI infrastructure · Physical AI · robotics · devtools · enterprise SaaS +
   usage-based compute.
+
+Working hypothesis (original bottoms-up, under revision after the 2026-09-14 critique —
+see `reports/daily/2026-09-14/market-model.md` and
+`memory/decisions/2026-09-14-market-model-revision.md`; CEO has not yet adopted the revision):
+
+- **ICP (original):** ~500 embodied-AI companies, filtered for large scale. Internally inconsistent
+  with the 300 / 330 headline counts used in the same model.
+- **ACV (hypothesis, not observed):** $50–450k annual, priced as a fraction of in-house sim & eval
+  engineering. No jaan contracts exist.
+- **SAM (original, 100% attach):** ~$90M / yr. This is every listed ICP buying at hypothesized
+  price — a theoretical max, not a diligence-grade SAM.
+
+Proposed investor-safe framing (2026-09-14 research — **pending CEO adoption**; not standing
+orders for external conversations until the CEO confirms):
+
+- **TAM:** robotic software platforms ~$6.07B (2025) / $7.58B (2026) (Mordor). Simulation +
+  digital-twin slice ~26.5% in 2025 ≈ $1.6B. jaan is a wedge inside that slice, not the slice.
+- **SAM (INFERENCE — no census, no contracts):** $15–40M today for a standalone policy-eval layer
+  (~200–350 reachable AI-robotics teams × $75–150k hypothesized ACV). Base single number if forced:
+  $25M.
+- **Beachhead / SOM:** tens of high-fit teams (humanoid + VLA manipulation with a real site), not
+  500 logos. 24-month ambition is design partners, not a % of $90M.
+- **ACV (hypothesis):** $50–150k year-1 land. $450k is not a current price card.
+- **Do not cite:** 1,600-company TAM, 36.5% CAGR, 2029 SAM $340–420M, or “25% of senior engineer
+  time” — those are unsourced or internally contradictory.
 
 ## Team
 
